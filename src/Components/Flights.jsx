@@ -19,7 +19,7 @@ nav("/ContactDetails")
         
       
 
-<div className="w-1/5   p-3 bg-white ">
+  <div className="w-1/5   p-3 bg-white ">
   <h1 className="text-xl font-semibold">price</h1>
   <h1 className="text-xl  my-2 text-gray-300">Rs 228,000</h1>
 
@@ -48,10 +48,10 @@ nav("/ContactDetails")
 </div>
   
   
-  </div>
+  </div> *
 
 
-<div className="w-4/5  flex-row g ">  
+<div className="w-4/5  flex-row  ">  
 
 <div className="  flex justify-between h-20">   
 <h1 className="m-5" >Flights Found</h1>
@@ -63,7 +63,7 @@ nav("/ContactDetails")
 
 <div className="bg-white m-3">
   
-<div className="bg-white flex flex-col   rounded-lg">
+ {/* <div className="bg-white flex flex-col   rounded-lg">
       <div className="self-stretch flex flex-col  mt-7 mb-5 max-md:max-w-full">
         <div className="w-[841px] max-w-full  self-end max-md:mr-2.5">
           <div className="gap-2 flex max-md:flex-col max-md:items-stretch max-md:gap-0">
@@ -284,7 +284,7 @@ nav("/ContactDetails")
           </div>
         </div>
       </div>
-    </div>
+    </div>  */}
 
 
 </div>
@@ -292,7 +292,7 @@ nav("/ContactDetails")
 
 
 
-<div className="bg-white m-3">
+{/* <div className="bg-white m-3">
   
 <div className="bg-white flex flex-col   rounded-lg">
       <div className="self-stretch flex flex-col  mt-7 mb-5 max-md:max-w-full">
@@ -518,10 +518,10 @@ nav("/ContactDetails")
     </div>
   
   
-  </div>
+  </div> */}
 
 
-</div>
+</div> 
 
 
           
